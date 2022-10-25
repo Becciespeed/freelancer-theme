@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: SkiHC.jpg
+img: SkiHC.png
 alt: image-alt
 project-date: Feb 2022
 client: Start Bootstrap
